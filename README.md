@@ -36,4 +36,3 @@ Research articles from various journals like for example, International Journal 
 - Prabhav Pandya
 - Pritesh Pawar
 - Pranav Tambaku
-- Vaidehi Patil
